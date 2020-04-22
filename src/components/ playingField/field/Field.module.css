@@ -4,4 +4,11 @@
     background-color: #00BFFF;
     padding: 10px;
     margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #D3D3D3;
+    font-size: 19px;
 }
